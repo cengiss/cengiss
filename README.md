@@ -1,6 +1,6 @@
 <p align="center">
 
-<img src="https://i.imgur.com/Y7Ugnee.gif" width="50%" alt="animated" />
+<img src="https://i.imgur.com/Y7Ugnee.gif" width="100%" alt="animated" />
 
 </p>
 
@@ -34,6 +34,6 @@
   </a>
 </p>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=cengiss&show_icons=true&theme=radical" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=cengiss&show_icons=true&theme=solarized-light" />
 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengiss&layout=donut" />
+<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengiss&layout=donut&theme=solarized-light" />
