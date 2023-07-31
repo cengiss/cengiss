@@ -34,6 +34,6 @@
   </a>
 </p>
 
-<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=cengiss&show_icons=true&theme=solarized-light" />
+<img align="left" width="50%" src="https://github-readme-stats.vercel.app/api?username=cengiss&show_icons=true&theme=nord" />
 
-<img align="right" width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengiss&layout=donut&theme=solarized-light" />
+<img align="right" width="34%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cengiss&layout=donut&theme=nord" />
